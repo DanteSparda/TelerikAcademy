@@ -1,0 +1,7 @@
+D:\Programirane\HQC\StudentsAndCourses\School.Tests\bin\Debug\School.Tests.dll
+D:\Programirane\HQC\StudentsAndCourses\School.Tests\bin\Debug\School.Tests.pdb
+D:\Programirane\HQC\StudentsAndCourses\School.Tests\bin\Debug\School.dll
+D:\Programirane\HQC\StudentsAndCourses\School.Tests\bin\Debug\School.pdb
+D:\Programirane\HQC\StudentsAndCourses\School.Tests\obj\Debug\School.Tests.csprojResolveAssemblyReference.cache
+D:\Programirane\HQC\StudentsAndCourses\School.Tests\obj\Debug\School.Tests.dll
+D:\Programirane\HQC\StudentsAndCourses\School.Tests\obj\Debug\School.Tests.pdb

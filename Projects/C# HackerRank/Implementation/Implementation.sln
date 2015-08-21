@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Angry Professor", "Angry Professor\01.Angry Professor.csproj", "{62117A9C-2835-4740-B6B8-C5CA71D829F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Sherlock and The Beast", "Sherlock and The Beast\02.Sherlock and The Beast.csproj", "{31618973-813C-484A-8C82-F5626A0525E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62117A9C-2835-4740-B6B8-C5CA71D829F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62117A9C-2835-4740-B6B8-C5CA71D829F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62117A9C-2835-4740-B6B8-C5CA71D829F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62117A9C-2835-4740-B6B8-C5CA71D829F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31618973-813C-484A-8C82-F5626A0525E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31618973-813C-484A-8C82-F5626A0525E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31618973-813C-484A-8C82-F5626A0525E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31618973-813C-484A-8C82-F5626A0525E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

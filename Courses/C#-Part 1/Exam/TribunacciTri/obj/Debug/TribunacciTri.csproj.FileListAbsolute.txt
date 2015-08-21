@@ -1,0 +1,5 @@
+D:\Programirane\C#-Part 1\Exam\TribunacciTri\bin\Debug\TribunacciTri.exe.config
+D:\Programirane\C#-Part 1\Exam\TribunacciTri\bin\Debug\TribunacciTri.exe
+D:\Programirane\C#-Part 1\Exam\TribunacciTri\bin\Debug\TribunacciTri.pdb
+D:\Programirane\C#-Part 1\Exam\TribunacciTri\obj\Debug\TribunacciTri.exe
+D:\Programirane\C#-Part 1\Exam\TribunacciTri\obj\Debug\TribunacciTri.pdb

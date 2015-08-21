@@ -1,0 +1,6 @@
+D:\Programirane\C# HackerRank\Warmup\Extra long factorials\bin\Debug\Extra long factorials.exe.config
+D:\Programirane\C# HackerRank\Warmup\Extra long factorials\bin\Debug\Extra long factorials.exe
+D:\Programirane\C# HackerRank\Warmup\Extra long factorials\bin\Debug\Extra long factorials.pdb
+D:\Programirane\C# HackerRank\Warmup\Extra long factorials\obj\Debug\10.Extra long factorials.csprojResolveAssemblyReference.cache
+D:\Programirane\C# HackerRank\Warmup\Extra long factorials\obj\Debug\Extra long factorials.exe
+D:\Programirane\C# HackerRank\Warmup\Extra long factorials\obj\Debug\Extra long factorials.pdb

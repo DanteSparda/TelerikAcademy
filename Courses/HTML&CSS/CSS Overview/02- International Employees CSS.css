@@ -1,0 +1,40 @@
+table{
+    border-bottom: 1px solid gray;
+    border-collapse: collapse;
+    height: 150px
+}
+thead > tr{
+    background-color: #54B705;
+    color: white;
+    font-size: 15px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+th{
+    text-align: left;
+}
+tr > td, th{
+    border-right: 1px solid gray;
+}
+tr > td:last-child{
+    border-right: none;
+}
+.names{
+    width: 150px;
+}
+#secondRow, #fourthRow{
+    background-color: #EDECD8;
+}
+#secondCol{
+    width: 120px;
+}
+#fourthCol{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+input[type= checkbox]{
+    margin-left: 15px;
+}
+img{
+    width: 1.5em;
+}

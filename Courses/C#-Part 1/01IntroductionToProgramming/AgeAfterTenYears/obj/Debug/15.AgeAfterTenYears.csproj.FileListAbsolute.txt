@@ -1,0 +1,6 @@
+D:\Programirane\C#-Part 1\01IntroductionToProgramming\AgeAfterTenYears\bin\Debug\AgeAfterTenYears.exe.config
+D:\Programirane\C#-Part 1\01IntroductionToProgramming\AgeAfterTenYears\bin\Debug\AgeAfterTenYears.exe
+D:\Programirane\C#-Part 1\01IntroductionToProgramming\AgeAfterTenYears\bin\Debug\AgeAfterTenYears.pdb
+D:\Programirane\C#-Part 1\01IntroductionToProgramming\AgeAfterTenYears\obj\Debug\15.AgeAfterTenYears.csprojResolveAssemblyReference.cache
+D:\Programirane\C#-Part 1\01IntroductionToProgramming\AgeAfterTenYears\obj\Debug\AgeAfterTenYears.exe
+D:\Programirane\C#-Part 1\01IntroductionToProgramming\AgeAfterTenYears\obj\Debug\AgeAfterTenYears.pdb

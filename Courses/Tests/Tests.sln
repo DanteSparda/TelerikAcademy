@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timer", "Timer\Timer.csproj", "{51CCCC01-7D09-44F7-90FF-3ADB4736CBCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeTest", "MazeTest\MazeTest.csproj", "{31E11EAA-9B3F-43E7-B0E7-C51A05DB2249}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighScoreTxt", "HighScoreTxt\HighScoreTxt.csproj", "{AF77B43E-A049-48FA-A2FC-2C7E2496ED57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51CCCC01-7D09-44F7-90FF-3ADB4736CBCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51CCCC01-7D09-44F7-90FF-3ADB4736CBCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51CCCC01-7D09-44F7-90FF-3ADB4736CBCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51CCCC01-7D09-44F7-90FF-3ADB4736CBCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31E11EAA-9B3F-43E7-B0E7-C51A05DB2249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E11EAA-9B3F-43E7-B0E7-C51A05DB2249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E11EAA-9B3F-43E7-B0E7-C51A05DB2249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E11EAA-9B3F-43E7-B0E7-C51A05DB2249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF77B43E-A049-48FA-A2FC-2C7E2496ED57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF77B43E-A049-48FA-A2FC-2C7E2496ED57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF77B43E-A049-48FA-A2FC-2C7E2496ED57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF77B43E-A049-48FA-A2FC-2C7E2496ED57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+D:\Programirane\C# HackerRank\Warmup\Library Fine\bin\Debug\Library Fine.exe.config
+D:\Programirane\C# HackerRank\Warmup\Library Fine\bin\Debug\Library Fine.exe
+D:\Programirane\C# HackerRank\Warmup\Library Fine\bin\Debug\Library Fine.pdb
+D:\Programirane\C# HackerRank\Warmup\Library Fine\obj\Debug\Library Fine.exe
+D:\Programirane\C# HackerRank\Warmup\Library Fine\obj\Debug\Library Fine.pdb

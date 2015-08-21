@@ -1,0 +1,1 @@
+D:\Programirane\C# OOP\Extension-Methods-Delegates-Lambda-LINQ\StringBuilder.Substring\bin\Debug\StringBuilder.Substring.exe.config

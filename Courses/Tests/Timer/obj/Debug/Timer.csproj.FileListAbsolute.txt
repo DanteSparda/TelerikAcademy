@@ -1,0 +1,6 @@
+D:\Programirane\Tests\Timer\bin\Debug\Timer.exe.config
+D:\Programirane\Tests\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+D:\Programirane\Tests\Timer\bin\Debug\Timer.exe
+D:\Programirane\Tests\Timer\bin\Debug\Timer.pdb
+D:\Programirane\Tests\Timer\obj\Debug\Timer.exe
+D:\Programirane\Tests\Timer\obj\Debug\Timer.pdb

@@ -1,0 +1,1 @@
+D:\Programirane\C# HackerRank\Warmup\A very big sum\bin\Debug\A very big sum.exe.config

@@ -1,0 +1,5 @@
+D:\Programirane\C# HackerRank\Warmup\Solve me second\bin\Debug\Solve me second.exe.config
+D:\Programirane\C# HackerRank\Warmup\Solve me second\bin\Debug\Solve me second.exe
+D:\Programirane\C# HackerRank\Warmup\Solve me second\bin\Debug\Solve me second.pdb
+D:\Programirane\C# HackerRank\Warmup\Solve me second\obj\Debug\Solve me second.exe
+D:\Programirane\C# HackerRank\Warmup\Solve me second\obj\Debug\Solve me second.pdb

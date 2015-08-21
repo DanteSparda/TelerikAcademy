@@ -1,0 +1,1 @@
+D:\Programirane\C# HackerRank\Warmup\Time Conversion\bin\Debug\Time Conversion.exe.config

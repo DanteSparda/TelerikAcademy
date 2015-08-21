@@ -1,0 +1,9 @@
+D:\Programirane\TotoGenerator\TotoGenerator\WindowsFormsTest\bin\Debug\WindowsFormsTest.exe.config
+D:\Programirane\TotoGenerator\TotoGenerator\WindowsFormsTest\bin\Debug\WindowsFormsTest.exe
+D:\Programirane\TotoGenerator\TotoGenerator\WindowsFormsTest\bin\Debug\WindowsFormsTest.pdb
+D:\Programirane\TotoGenerator\TotoGenerator\WindowsFormsTest\obj\Debug\RandomTotoCombinationGenerator.csprojResolveAssemblyReference.cache
+D:\Programirane\TotoGenerator\TotoGenerator\WindowsFormsTest\obj\Debug\RandomTotoCombinationGenerator.OuterBox.resources
+D:\Programirane\TotoGenerator\TotoGenerator\WindowsFormsTest\obj\Debug\RandomTotoCombinationGenerator.Properties.Resources.resources
+D:\Programirane\TotoGenerator\TotoGenerator\WindowsFormsTest\obj\Debug\RandomTotoCombinationGenerator.csproj.GenerateResource.Cache
+D:\Programirane\TotoGenerator\TotoGenerator\WindowsFormsTest\obj\Debug\WindowsFormsTest.exe
+D:\Programirane\TotoGenerator\TotoGenerator\WindowsFormsTest\obj\Debug\WindowsFormsTest.pdb

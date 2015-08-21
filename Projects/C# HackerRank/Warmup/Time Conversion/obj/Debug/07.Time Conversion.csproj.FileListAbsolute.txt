@@ -1,0 +1,6 @@
+D:\Programirane\C# HackerRank\Warmup\Time Conversion\bin\Debug\Time Conversion.exe.config
+D:\Programirane\C# HackerRank\Warmup\Time Conversion\bin\Debug\Time Conversion.exe
+D:\Programirane\C# HackerRank\Warmup\Time Conversion\bin\Debug\Time Conversion.pdb
+D:\Programirane\C# HackerRank\Warmup\Time Conversion\obj\Debug\Time Conversion.exe
+D:\Programirane\C# HackerRank\Warmup\Time Conversion\obj\Debug\Time Conversion.pdb
+D:\Programirane\C# HackerRank\Warmup\Time Conversion\obj\Debug\07.Time Conversion.csprojResolveAssemblyReference.cache

@@ -1,0 +1,3 @@
+D:\Programirane\C# HackerRank\Warmup\Solve me first\bin\Debug\Solve me first.exe.config
+D:\Programirane\C# HackerRank\Warmup\Solve me first\obj\Debug\Solve me first.exe
+D:\Programirane\C# HackerRank\Warmup\Solve me first\obj\Debug\Solve me first.pdb

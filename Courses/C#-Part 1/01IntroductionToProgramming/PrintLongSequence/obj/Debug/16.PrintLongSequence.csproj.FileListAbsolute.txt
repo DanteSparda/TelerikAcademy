@@ -1,0 +1,6 @@
+D:\Programirane\C#-Part 1\01IntroductionToProgramming\PrintLongSequence\bin\Debug\PrintLongSequence.exe.config
+D:\Programirane\C#-Part 1\01IntroductionToProgramming\PrintLongSequence\bin\Debug\PrintLongSequence.exe
+D:\Programirane\C#-Part 1\01IntroductionToProgramming\PrintLongSequence\bin\Debug\PrintLongSequence.pdb
+D:\Programirane\C#-Part 1\01IntroductionToProgramming\PrintLongSequence\obj\Debug\16.PrintLongSequence.csprojResolveAssemblyReference.cache
+D:\Programirane\C#-Part 1\01IntroductionToProgramming\PrintLongSequence\obj\Debug\PrintLongSequence.exe
+D:\Programirane\C#-Part 1\01IntroductionToProgramming\PrintLongSequence\obj\Debug\PrintLongSequence.pdb

@@ -1,0 +1,1 @@
+D:\Programirane\C# HackerRank\Warmup\Diagonal Difference\bin\Debug\Diagonal Difference.exe.config

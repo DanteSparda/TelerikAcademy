@@ -1,0 +1,6 @@
+D:\Programirane\Tests\MazeTest\bin\Debug\MazeTest.exe.config
+D:\Programirane\Tests\MazeTest\bin\Debug\MazeTest.exe
+D:\Programirane\Tests\MazeTest\bin\Debug\MazeTest.pdb
+D:\Programirane\Tests\MazeTest\obj\Debug\MazeTest.csprojResolveAssemblyReference.cache
+D:\Programirane\Tests\MazeTest\obj\Debug\MazeTest.exe
+D:\Programirane\Tests\MazeTest\obj\Debug\MazeTest.pdb

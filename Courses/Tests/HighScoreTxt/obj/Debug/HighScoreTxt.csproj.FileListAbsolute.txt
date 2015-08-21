@@ -1,0 +1,6 @@
+D:\Programirane\Tests\HighScoreTxt\bin\Debug\HighScoreTxt.exe.config
+D:\Programirane\Tests\HighScoreTxt\bin\Debug\HighScoreTxt.exe
+D:\Programirane\Tests\HighScoreTxt\bin\Debug\HighScoreTxt.pdb
+D:\Programirane\Tests\HighScoreTxt\obj\Debug\HighScoreTxt.csprojResolveAssemblyReference.cache
+D:\Programirane\Tests\HighScoreTxt\obj\Debug\HighScoreTxt.exe
+D:\Programirane\Tests\HighScoreTxt\obj\Debug\HighScoreTxt.pdb

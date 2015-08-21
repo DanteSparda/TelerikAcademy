@@ -1,0 +1,6 @@
+D:\Programirane\C# HackerRank\Implementation\Angry Professor\obj\Debug\01.Angry Professor.csprojResolveAssemblyReference.cache
+D:\Programirane\C# HackerRank\Implementation\Angry Professor\bin\Debug\Angry Professor.exe.config
+D:\Programirane\C# HackerRank\Implementation\Angry Professor\bin\Debug\Angry Professor.exe
+D:\Programirane\C# HackerRank\Implementation\Angry Professor\bin\Debug\Angry Professor.pdb
+D:\Programirane\C# HackerRank\Implementation\Angry Professor\obj\Debug\Angry Professor.exe
+D:\Programirane\C# HackerRank\Implementation\Angry Professor\obj\Debug\Angry Professor.pdb

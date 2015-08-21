@@ -1,0 +1,5 @@
+D:\Programirane\C# HackerRank\Warmup\Plus Minus\bin\Debug\Plus Minus.exe.config
+D:\Programirane\C# HackerRank\Warmup\Plus Minus\bin\Debug\Plus Minus.exe
+D:\Programirane\C# HackerRank\Warmup\Plus Minus\bin\Debug\Plus Minus.pdb
+D:\Programirane\C# HackerRank\Warmup\Plus Minus\obj\Debug\Plus Minus.exe
+D:\Programirane\C# HackerRank\Warmup\Plus Minus\obj\Debug\Plus Minus.pdb

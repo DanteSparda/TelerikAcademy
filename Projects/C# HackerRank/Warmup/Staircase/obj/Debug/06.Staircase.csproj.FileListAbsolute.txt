@@ -1,0 +1,5 @@
+D:\Programirane\C# HackerRank\Warmup\Staircase\bin\Debug\Staircase.exe.config
+D:\Programirane\C# HackerRank\Warmup\Staircase\bin\Debug\Staircase.exe
+D:\Programirane\C# HackerRank\Warmup\Staircase\bin\Debug\Staircase.pdb
+D:\Programirane\C# HackerRank\Warmup\Staircase\obj\Debug\Staircase.exe
+D:\Programirane\C# HackerRank\Warmup\Staircase\obj\Debug\Staircase.pdb

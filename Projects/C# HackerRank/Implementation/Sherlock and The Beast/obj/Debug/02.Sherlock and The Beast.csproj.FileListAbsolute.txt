@@ -1,0 +1,6 @@
+D:\Programirane\C# HackerRank\Implementation\Sherlock and The Beast\bin\Debug\Sherlock and The Beast.exe.config
+D:\Programirane\C# HackerRank\Implementation\Sherlock and The Beast\bin\Debug\Sherlock and The Beast.exe
+D:\Programirane\C# HackerRank\Implementation\Sherlock and The Beast\bin\Debug\Sherlock and The Beast.pdb
+D:\Programirane\C# HackerRank\Implementation\Sherlock and The Beast\obj\Debug\02.Sherlock and The Beast.csprojResolveAssemblyReference.cache
+D:\Programirane\C# HackerRank\Implementation\Sherlock and The Beast\obj\Debug\Sherlock and The Beast.exe
+D:\Programirane\C# HackerRank\Implementation\Sherlock and The Beast\obj\Debug\Sherlock and The Beast.pdb

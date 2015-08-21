@@ -1,0 +1,6 @@
+D:\Programirane\C# HackerRank\Warmup\Solve me first\bin\Debug\Solve me first.exe.config
+D:\Programirane\C# HackerRank\Warmup\Solve me first\bin\Debug\Solve me first.exe
+D:\Programirane\C# HackerRank\Warmup\Solve me first\bin\Debug\Solve me first.pdb
+D:\Programirane\C# HackerRank\Warmup\Solve me first\obj\Debug\Solve me first.csprojResolveAssemblyReference.cache
+D:\Programirane\C# HackerRank\Warmup\Solve me first\obj\Debug\Solve me first.exe
+D:\Programirane\C# HackerRank\Warmup\Solve me first\obj\Debug\Solve me first.pdb

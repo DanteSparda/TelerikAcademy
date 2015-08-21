@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D88ECFE7-8D17-48D0-9079-77CE0F1121EC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RandomTotoCombinationGenerator</RootNamespace>
+    <AssemblyName>WindowsFormsTest</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GeneratorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GeneratorForm.Designer.cs">
+      <DependentUpon>GeneratorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Startup.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RandomNumberGenerator.cs" />
+    <Compile Include="Toto.cs" />
+    <EmbeddedResource Include="GeneratorForm.resx">
+      <DependentUpon>GeneratorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="kitten.jpg" />
+    <Content Include="Numbers and Zodiacs\1.png" />
+    <Content Include="Numbers and Zodiacs\10.png" />
+    <Content Include="Numbers and Zodiacs\11.png" />
+    <Content Include="Numbers and Zodiacs\12.png" />
+    <Content Include="Numbers and Zodiacs\13.png" />
+    <Content Include="Numbers and Zodiacs\14.png" />
+    <Content Include="Numbers and Zodiacs\15.png" />
+    <Content Include="Numbers and Zodiacs\16.png" />
+    <Content Include="Numbers and Zodiacs\17.png" />
+    <Content Include="Numbers and Zodiacs\18.png" />
+    <Content Include="Numbers and Zodiacs\19.png" />
+    <Content Include="Numbers and Zodiacs\2.png" />
+    <Content Include="Numbers and Zodiacs\20.png" />
+    <Content Include="Numbers and Zodiacs\21.png" />
+    <Content Include="Numbers and Zodiacs\22.png" />
+    <Content Include="Numbers and Zodiacs\23.png" />
+    <Content Include="Numbers and Zodiacs\24.png" />
+    <Content Include="Numbers and Zodiacs\25.png" />
+    <Content Include="Numbers and Zodiacs\26.png" />
+    <Content Include="Numbers and Zodiacs\27.png" />
+    <Content Include="Numbers and Zodiacs\28.png" />
+    <Content Include="Numbers and Zodiacs\29.png" />
+    <Content Include="Numbers and Zodiacs\3.png" />
+    <Content Include="Numbers and Zodiacs\30.png" />
+    <Content Include="Numbers and Zodiacs\31.png" />
+    <Content Include="Numbers and Zodiacs\32.png" />
+    <Content Include="Numbers and Zodiacs\33.png" />
+    <Content Include="Numbers and Zodiacs\34.png" />
+    <Content Include="Numbers and Zodiacs\35.png" />
+    <Content Include="Numbers and Zodiacs\36.png" />
+    <Content Include="Numbers and Zodiacs\37.png" />
+    <Content Include="Numbers and Zodiacs\38.png" />
+    <Content Include="Numbers and Zodiacs\39.png" />
+    <Content Include="Numbers and Zodiacs\4.png" />
+    <Content Include="Numbers and Zodiacs\40.png" />
+    <Content Include="Numbers and Zodiacs\41.png" />
+    <Content Include="Numbers and Zodiacs\42.png" />
+    <Content Include="Numbers and Zodiacs\43.png" />
+    <Content Include="Numbers and Zodiacs\44.png" />
+    <Content Include="Numbers and Zodiacs\45.png" />
+    <Content Include="Numbers and Zodiacs\46.png" />
+    <Content Include="Numbers and Zodiacs\47.png" />
+    <Content Include="Numbers and Zodiacs\48.png" />
+    <Content Include="Numbers and Zodiacs\49.png" />
+    <Content Include="Numbers and Zodiacs\5.png" />
+    <Content Include="Numbers and Zodiacs\50.png" />
+    <Content Include="Numbers and Zodiacs\6.png" />
+    <Content Include="Numbers and Zodiacs\7.png" />
+    <Content Include="Numbers and Zodiacs\8.png" />
+    <Content Include="Numbers and Zodiacs\9.png" />
+    <Content Include="Numbers and Zodiacs\Aquarius.png" />
+    <Content Include="Numbers and Zodiacs\Aries.jpg" />
+    <Content Include="Numbers and Zodiacs\Cancer.png" />
+    <Content Include="Numbers and Zodiacs\Capricorn.png" />
+    <Content Include="Numbers and Zodiacs\Gemini.png" />
+    <Content Include="Numbers and Zodiacs\Leo.png" />
+    <Content Include="Numbers and Zodiacs\Libra.png" />
+    <Content Include="Numbers and Zodiacs\Pisces.png" />
+    <Content Include="Numbers and Zodiacs\Sagittarius.png" />
+    <Content Include="Numbers and Zodiacs\Scorpio.png" />
+    <Content Include="Numbers and Zodiacs\Taurus.png" />
+    <Content Include="Numbers and Zodiacs\Virgo.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

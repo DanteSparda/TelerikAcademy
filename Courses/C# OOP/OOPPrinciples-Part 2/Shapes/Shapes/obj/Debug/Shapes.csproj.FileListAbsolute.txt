@@ -1,0 +1,6 @@
+D:\Programirane\C# OOP\OOPPrinciples-Part 2\Shapes\Shapes\bin\Debug\Shapes.exe.config
+D:\Programirane\C# OOP\OOPPrinciples-Part 2\Shapes\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+D:\Programirane\C# OOP\OOPPrinciples-Part 2\Shapes\Shapes\bin\Debug\Shapes.exe
+D:\Programirane\C# OOP\OOPPrinciples-Part 2\Shapes\Shapes\bin\Debug\Shapes.pdb
+D:\Programirane\C# OOP\OOPPrinciples-Part 2\Shapes\Shapes\obj\Debug\Shapes.exe
+D:\Programirane\C# OOP\OOPPrinciples-Part 2\Shapes\Shapes\obj\Debug\Shapes.pdb

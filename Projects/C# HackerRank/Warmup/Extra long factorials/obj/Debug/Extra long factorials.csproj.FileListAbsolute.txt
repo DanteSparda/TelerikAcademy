@@ -1,0 +1,1 @@
+D:\Programirane\C# HackerRank\Warmup\Extra long factorials\bin\Debug\Extra long factorials.exe.config

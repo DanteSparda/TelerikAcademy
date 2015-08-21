@@ -1,0 +1,5 @@
+D:\Programirane\C# HackerRank\Warmup\Diagonal Difference\bin\Debug\Diagonal Difference.exe.config
+D:\Programirane\C# HackerRank\Warmup\Diagonal Difference\bin\Debug\Diagonal Difference.exe
+D:\Programirane\C# HackerRank\Warmup\Diagonal Difference\bin\Debug\Diagonal Difference.pdb
+D:\Programirane\C# HackerRank\Warmup\Diagonal Difference\obj\Debug\Diagonal Difference.exe
+D:\Programirane\C# HackerRank\Warmup\Diagonal Difference\obj\Debug\Diagonal Difference.pdb

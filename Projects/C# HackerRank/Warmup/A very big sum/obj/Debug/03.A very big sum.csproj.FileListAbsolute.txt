@@ -1,0 +1,6 @@
+D:\Programirane\C# HackerRank\Warmup\A very big sum\bin\Debug\A very big sum.exe.config
+D:\Programirane\C# HackerRank\Warmup\A very big sum\bin\Debug\A very big sum.exe
+D:\Programirane\C# HackerRank\Warmup\A very big sum\bin\Debug\A very big sum.pdb
+D:\Programirane\C# HackerRank\Warmup\A very big sum\obj\Debug\A very big sum.exe
+D:\Programirane\C# HackerRank\Warmup\A very big sum\obj\Debug\A very big sum.pdb
+D:\Programirane\C# HackerRank\Warmup\A very big sum\obj\Debug\03.A very big sum.csprojResolveAssemblyReference.cache

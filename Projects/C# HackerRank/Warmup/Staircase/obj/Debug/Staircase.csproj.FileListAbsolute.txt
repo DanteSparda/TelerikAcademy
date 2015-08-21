@@ -1,0 +1,1 @@
+D:\Programirane\C# HackerRank\Warmup\Staircase\bin\Debug\Staircase.exe.config
