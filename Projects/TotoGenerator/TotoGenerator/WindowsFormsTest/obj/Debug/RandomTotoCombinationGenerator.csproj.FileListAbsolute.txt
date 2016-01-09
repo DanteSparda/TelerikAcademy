@@ -7,3 +7,12 @@ D:\Programirane\TotoGenerator\TotoGenerator\WindowsFormsTest\obj\Debug\RandomTot
 D:\Programirane\TotoGenerator\TotoGenerator\WindowsFormsTest\obj\Debug\RandomTotoCombinationGenerator.csproj.GenerateResource.Cache
 D:\Programirane\TotoGenerator\TotoGenerator\WindowsFormsTest\obj\Debug\WindowsFormsTest.exe
 D:\Programirane\TotoGenerator\TotoGenerator\WindowsFormsTest\obj\Debug\WindowsFormsTest.pdb
+D:\Programirane\TelerikAcademy\Projects\TotoGenerator\TotoGenerator\WindowsFormsTest\bin\Debug\WindowsFormsTest.exe.config
+D:\Programirane\TelerikAcademy\Projects\TotoGenerator\TotoGenerator\WindowsFormsTest\obj\Debug\WindowsFormsTest.exe
+D:\Programirane\TelerikAcademy\Projects\TotoGenerator\TotoGenerator\WindowsFormsTest\obj\Debug\WindowsFormsTest.pdb
+D:\Programirane\TelerikAcademy\Projects\TotoGenerator\TotoGenerator\WindowsFormsTest\bin\Debug\WindowsFormsTest.exe
+D:\Programirane\TelerikAcademy\Projects\TotoGenerator\TotoGenerator\WindowsFormsTest\bin\Debug\WindowsFormsTest.pdb
+D:\Programirane\TelerikAcademy\Projects\TotoGenerator\TotoGenerator\WindowsFormsTest\obj\Debug\RandomTotoCombinationGenerator.csprojResolveAssemblyReference.cache
+D:\Programirane\TelerikAcademy\Projects\TotoGenerator\TotoGenerator\WindowsFormsTest\obj\Debug\RandomTotoCombinationGenerator.OuterBox.resources
+D:\Programirane\TelerikAcademy\Projects\TotoGenerator\TotoGenerator\WindowsFormsTest\obj\Debug\RandomTotoCombinationGenerator.Properties.Resources.resources
+D:\Programirane\TelerikAcademy\Projects\TotoGenerator\TotoGenerator\WindowsFormsTest\obj\Debug\RandomTotoCombinationGenerator.csproj.GenerateResource.Cache

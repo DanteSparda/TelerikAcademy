@@ -50,6 +50,7 @@
     <Reference Include="WindowsFormsIntegration" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Contracts\ITotoCombination.cs" />
     <Compile Include="GeneratorForm.cs">
       <SubType>Form</SubType>
     </Compile>

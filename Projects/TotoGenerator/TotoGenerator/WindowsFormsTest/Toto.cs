@@ -15,7 +15,7 @@
             }
 
             var numbers = new List<string>();
-            GenerateNumers(numbers, maxRange);
+            GenerateNumbers(numbers, maxRange);
 
             return numbers;
         }
@@ -57,7 +57,7 @@
             }
         }
 
-        private static void GenerateNumers(List<string> numbers, int maxRange)
+        private static void GenerateNumbers(List<string> numbers, int maxRange)
         {
             numbers.Clear();
 
@@ -86,6 +86,8 @@
             if (maxRange == 50)
             {
                 var zodiac = RandomNumberGenerator.RandomZodiac();
+                var number = 0;
+
                 numbers.Add(zodiac);
             }
 

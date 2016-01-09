@@ -4,3 +4,6 @@ D:\Programirane\TotoGenerator\TotoGenerator\TotoGenerator\bin\Debug\TotoGenerato
 D:\Programirane\TotoGenerator\TotoGenerator\TotoGenerator\bin\Debug\TotoGenerator.pdb
 D:\Programirane\TotoGenerator\TotoGenerator\TotoGenerator\obj\Debug\TotoGenerator.exe
 D:\Programirane\TotoGenerator\TotoGenerator\TotoGenerator\obj\Debug\TotoGenerator.pdb
+D:\Programirane\TelerikAcademy\Projects\TotoGenerator\TotoGenerator\TotoGenerator\bin\Debug\TotoGenerator.exe.config
+D:\Programirane\TelerikAcademy\Projects\TotoGenerator\TotoGenerator\TotoGenerator\obj\Debug\TotoGenerator.exe
+D:\Programirane\TelerikAcademy\Projects\TotoGenerator\TotoGenerator\TotoGenerator\obj\Debug\TotoGenerator.pdb

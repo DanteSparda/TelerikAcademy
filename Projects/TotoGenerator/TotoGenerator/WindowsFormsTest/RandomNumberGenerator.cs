@@ -32,7 +32,7 @@
         {
             Random rndNum = new Random(int.Parse(Guid.NewGuid().ToString().Substring(0, 8), System.Globalization.NumberStyles.HexNumber));
 
-            int randomZodiac = rndNum.Next(1, 13);
+            int randomZodiac = rndNum.Next(0, 12);
             var zodiac = (Zodiacs)randomZodiac;
             return zodiac.ToString();
         }
